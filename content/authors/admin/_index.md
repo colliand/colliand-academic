@@ -15,24 +15,26 @@ social:
     link: http://scholar.google.com/citations?hl=en&user=CioUdggAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/colliand
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://linkedin.com/in/james-colliander-9bb02465
+  - display:
+      header: false
+    link: http://orcid.org/0000-0002-8087-0887
+    icon_pack: ai
+    icon: orcid
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of British Columbia
+    url: https://www.ubc.ca
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD (Mathematics)
+      institution: University of Illinois
+      year: 1997
+    - course: BA (Mathematics; Physics)
+      institution: Macalester College
+      year: 1989
 superuser: true
 highlight_name: false
 title: James Colliander
