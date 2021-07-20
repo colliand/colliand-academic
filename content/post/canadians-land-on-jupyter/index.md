@@ -3,6 +3,8 @@ title: Canadians Land on Jupyter
 date: 2017-07-11T17:00:00.000Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - Jupyter
   - Syzygy
