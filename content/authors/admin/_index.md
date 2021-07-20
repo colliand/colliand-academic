@@ -38,7 +38,7 @@ education:
 superuser: true
 highlight_name: false
 title: James Colliander
-email: colliand@crowdmark.com
+email: colliand@gmail.com
 ---
 
 James Colliander is a Professor of Mathematics at the University of British Columbia.
