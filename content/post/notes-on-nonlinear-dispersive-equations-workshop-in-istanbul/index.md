@@ -13,17 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-+++
-categories = \["lessons"]
-tags = \["notes", "Istanbul"]
-comments = false
-author = "James Colliander"
-date = "2010-08-28"
-title = "Notes on Nonlinear Dispersive Equations Workshop in Istanbul"
-+++
-
-# Notes on Nonlinear Dispersive Equations Workshop in Istanbul
-
 During last week's 
 <a href="http://imbm.org.tr/NDE2010.htm">NDE meeting in Istanbul</a>, I experimented and took real-time notes in 
 <a href="http://fletcherpenney.net/multimarkdown/">MultiMarkDown</a> during the talks. 
@@ -50,7 +39,7 @@ A lot of the work here is inspired by the thesis of Nilay Duruk.
 	<li>Ongoing Studies</li>
 </ul>
 <h2 id="nonlocalnonlinearequation">Nonlocal nonlinear equation</h2>
-$$u_{tt}=\[\beta*(u+g(u))]_x$$
+$$u_{tt}=\\[\beta*(u+g(u))]_x$$
 
 $$0≤{\hat{\beta}}(\xi)≤C(1+\xi^2)^{-r/2}$$
 
@@ -94,7 +83,7 @@ In the discussion after the talk, E. Titi asked what they would do on a bounded 
 <h2 id="elasticitymotivatesstudyofnonlocalwaveequations">Elasticity Motivates Study of Nonlocal Wave Equations</h2>
 Deformation fields in an elastic body might be influenced by distant points. Therefore, we encounter nonlocal elasticity.
 
-$$ w*{tt}=(\beta *F*{w*x})_x + (\beta * F*{w_y})_y)$$
+$$ w*{tt}=(\beta* F*{w*x})_x + (\beta  *F*{w_y})_y)$$
 
 $$0 \leq \hat{\beta}(\xi) \leq (1 + |\xi|^2)^{-r/2}$$
 
@@ -244,7 +233,7 @@ OPEN: Solve the local Cauchy problem under more general conditions on the nonlin
 
 <h2 id="standingwaves">Standing Waves</h2>
 Ansatz:
-$$\phi\_\omega= u\_\omega (x) e^{-i\omega t}.$$
+$$\phi\\_\omega= u\\_\omega (x) e^{-i\omega t}.$$
 
 A calculation shows that
 
