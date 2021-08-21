@@ -3,6 +3,8 @@ title: Notes on Nonlinear Dispersive Wave Equations Workshop in Oberwolfach
 date: 2010-10-04T22:39:37.665Z
 draft: false
 featured: false
+authors:
+  - admin
 tags:
   - dispersive
 categories:
@@ -12,13 +14,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-+++
-author = "James Colliander"
-tags = ["dispersive"]
-comments = false
-date = "2010-10-04"
-title = "Notes on Nonlinear Dispersive Wave Equations Workshop in Oberwolfach"
-+++
+
 
 This page contains notes by <a title="James Colliander's home page at U. Toronto" href="http://www.math.toronto.edu/colliand">J. Colliander</a> taken at the workshop:
 <blockquote><img src="http://www.math.toronto.edu/colliand/images/mfo_summer.jpg" alt="MFO" /></blockquote>
