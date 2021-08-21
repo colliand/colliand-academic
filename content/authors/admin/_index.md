@@ -2,7 +2,7 @@
 role: ""
 avatar_filename: colliander-macalester-today-1.jpg
 bio: ""
-interests: []
+interests: [analysis and pde, mathematical physics, research policy, interactive computing]
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,10 +29,10 @@ organizations:
     url: https://www.ubc.ca
 education:
   courses:
-    - course: PhD: Mathematics
+    - course: PhD in Mathematics
       institution: University of Illinois
       year: 1997
-    - course: BA: Mathematics + Physics
+    - course: BA in Mathematics and Physics
       institution: Macalester College
       year: 1989
 superuser: true
@@ -41,4 +41,4 @@ title: James Colliander
 email: colliand@math.ubc.ca
 ---
 
-James Colliander is a Professor of Mathematics at the University of British Columbia.
+Professor of Mathematics at the University of British Columbia.
