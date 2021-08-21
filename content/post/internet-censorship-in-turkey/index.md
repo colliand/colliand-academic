@@ -13,14 +13,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-+++
-author = "James Colliander"
-comments = false
-title = "Internet Censorship in Turkey"
-date = "2010-08-23"
-tags = \["censorship", "Turkey" ]
-+++
-
 Istanbul is amazing!
 
 I am having a wonderful visit to Istanbul for a [meeting on nonlinear dispersive equations](http://math.isikun.edu.tr/erbay/pdf/NDE2010-preliminary.pdf).
