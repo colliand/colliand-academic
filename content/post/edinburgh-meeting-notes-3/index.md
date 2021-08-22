@@ -3,13 +3,17 @@ title: Edinburgh Meeting Notes 3
 date: 2011-01-21T06:33:06.985Z
 draft: false
 featured: false
+tags:
+  - Edinburgh
+  - notes
+  - numerics
+categories:
+  - lessons
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-
-
 
 
 <h1>Galina Perelman: 2 soliton collision in NLS</h1>
