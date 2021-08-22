@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://linkedin.com/in/james-colliander-9bb02465
 organizations:
-  - name: The University of British Columbia
+  - name: UBC 
     url: https://www.ubc.ca
 education:
   courses:
