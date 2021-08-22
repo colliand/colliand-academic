@@ -7,6 +7,7 @@ authors:
   - admin
 tags:
   - dispersive
+  - Oberwolfach
 categories:
   - conference
 image:

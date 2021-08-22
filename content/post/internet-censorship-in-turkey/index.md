@@ -7,7 +7,7 @@ authors:
   - colliand
 tags:
   - censorship
-  - turkey
+  - Turkey
 image:
   filename: featured
   focal_point: Smart
