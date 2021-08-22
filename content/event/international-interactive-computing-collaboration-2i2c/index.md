@@ -19,6 +19,10 @@ authors:
   - admin
 tags:
   - 2i2c
+  - Jupyter
+  - Syzygy
+  - Callysto
+  - PIMS
 categories:
   - research-tech
 image:
