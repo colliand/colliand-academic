@@ -35,8 +35,8 @@ organizations:
     url: https://crowdmark.com
   - name: 2i2c
     url: https://2i2c.ca
-  - name: https://callysto.ca
-    url: Callysto
+  - name: Callysto
+    url: https://callysto.ca
 education:
   courses:
     - course: PhD in Mathematics
