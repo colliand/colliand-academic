@@ -9,6 +9,7 @@ tags:
   - notes
   - conference
   - IAS
+  - symplectic
 categories:
   - lessons
 image:
