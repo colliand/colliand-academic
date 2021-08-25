@@ -2,11 +2,15 @@
 role: ""
 avatar_filename: colliander-macalester-today-1.jpg
 bio: ""
-interests: [analysis and pde, mathematical physics, research policy, interactive computing]
+interests:
+  - analysis and pde
+  - mathematical physics
+  - research policy
+  - interactive computing
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:colliand@math.ubc.ca 
+    link: mailto:colliand@math.ubc.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/colliand
@@ -25,8 +29,14 @@ social:
     icon_pack: fab
     link: https://linkedin.com/in/james-colliander-9bb02465
 organizations:
-  - name: UBC 
+  - name: UBC
     url: https://www.ubc.ca
+  - name: Crowdmark
+    url: https://crowdmark.com
+  - name: 2i2c
+    url: https://2i2c.ca
+  - name: https://callysto.ca
+    url: Callysto
 education:
   courses:
     - course: PhD in Mathematics
