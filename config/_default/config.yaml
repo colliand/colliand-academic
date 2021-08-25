@@ -5,7 +5,7 @@
 
 title: James Colliander # Website name
 baseurl: 'https://academic-colliand.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} James Colliander'
 
 ############################
 ## LANGUAGE
