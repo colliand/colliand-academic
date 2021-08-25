@@ -34,7 +34,7 @@ experience:
   - title: Founder
     company: Crowdmark
     company_url: 'https://crowdmark.com'
-    company_logo:
+    company_logo: 
     location: Toronto, ON, Canada
     date_start: '2012-06-29'
     date_end: ''
@@ -60,7 +60,7 @@ experience:
   - title: Director
     company: Pacific Institute for the Mathematical Sciences
     company_url: 'https://pims.math.ca'
-    company_logo: pims-logo-vertlcase
+    company_logo: 
     location: Vancouver, BC, Canada
     date_start: '2016-07-01'
     date_end: '2021-07-01'
@@ -69,7 +69,7 @@ experience:
   - tile: CEO
     company: Crowdmark
     company_url: 'https://crowdmark.com'
-    company_logo:
+    company_logo: 
     location: Toronto, ON, Canada
     date_start: '2012-06-29'
     date_end: '2018-12-01'
@@ -78,7 +78,7 @@ experience:
   - title: Deputy Director
     company: Pacific Institute for the Mathematical Sciences
     company_url: 'https://pims.math.ca'
-    company_logo: pims-logo-vertlcase
+    company_logo: 
     location: Vancouver, BC, Canada
     date_start: '2015-03-01'
     date_end: '2016-06-30'
