@@ -22,8 +22,6 @@ image:
 ---
 
 
-# Budget 2017, Naylor’s review, and the Mathematical Sciences in Canada
-
 James Colliander, Director of the [Pacific Institute for the Mathematical Sciences (PIMS)](https://www.pims.math.ca/)  
 Nassif Ghoussoub, Director of the [Banff International Research Station (BIRS)](http://www.birs.ca/)  
 Ian Hambleton, Director of the [Fields Institute for Research in Mathematical Sciences (Fields)](http://www.fields.utoronto.ca/)  
