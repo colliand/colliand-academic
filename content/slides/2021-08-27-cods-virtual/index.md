@@ -2,48 +2,38 @@
 tags: ["2i2c","open-data","Syzygy","Callysto"]
 categories: ["research-policy","research-tech"]
 date: "2021-08-27"
+diagram: true
 slides:
   theme: black
-  transition: 'fade'
-#  parallaxBackgroundImage: 'https://ten.blue/uploads/jupiter-spot.jpg'
-#  spotlight:
+  transition: 'zoom'
 ---
+# <code>Open Toolchain</code>
 
+Canadian Open Data Society Board meeting
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+2021-08-27
 
-# <code>2i2c</code>
+----
 
+### Idea
 
-> A corporation with a mission to support people engaged in **interactive computing**.
-
-International Interactive Computing Collaboration
-
-<!-- .element: class="fragment" data-fragment-index="1" -->
+**People**, with the right **data**, **tools** and resources, can do good things working **together**.
 
 ----
 
 ## [James Colliander](https://colliand.com) 
 
-<br>
++ Professor of Mathematics: UBC
++ Cofounder: 2i2c, Callysto, Syzygy, Crowdmark
++ Past Director (2016-2021): PIMS
 
+
+<br>
+        
 
 <a href="https://twitter.com/colliand"><i class="fa fa-twitter"></i></a> <a href="https://github.com/colliand/"><i class="fa fa-github"></i></a> <a href="https://www.linkedin.com/in/james-colliander-9bb02465"><i class="fa fa-linkedin"></i></a>  <a href="https://www.youtube.com/user/JamesColliander"><i class="fa fa-youtube"></i></a> <a href="https://angel.co/colliand"><i class="fa fa-angellist"></i></a> <a href="mailto:colliand@math.ubc.ca"><i class="fa fa-envelope-o"></i></a>
 
-::::info
-These slides: [bit.ly/2i2c-berkeley](http://bit.ly/2i2c-berkeley)
 
-[Video of this talk](https://www.youtube.com/watch?v=s0htaQQ2uAY)
-::::
-
-<br>
-
-<a href="https://pims.math.ca">
-      <img src="https://media.pims.math.ca/logos/webhorizfulllarge.png"  style="width:50%" align = left>
-    </a>
-<a href="https://math.ubc.ca">
-      <img src="https://wwejubwfy.s3.amazonaws.com/UBC_Logos__UBC_Brand_2019-10-30_16-21-48.png" style="width:13%" align = right>
-</a>
 
 
 ----
@@ -69,7 +59,7 @@ These slides: [bit.ly/2i2c-berkeley](http://bit.ly/2i2c-berkeley)
 
 ----
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 ![Jupyter](https://wwejubwfy.s3.amazonaws.com/Project_Jupyter__Home_2020-02-25_15-47-03.png)
 
@@ -102,7 +92,7 @@ These slides: [bit.ly/2i2c-berkeley](http://bit.ly/2i2c-berkeley)
 
 ![Crowdmark](https://wwejubwfy.s3.amazonaws.com/Online_Grading_Software_for_Instructors__Crowdmark_2020-02-25_17-17-14.png)
 
-----
+
 
 ---
 
@@ -110,18 +100,16 @@ These slides: [bit.ly/2i2c-berkeley](http://bit.ly/2i2c-berkeley)
 
 ----
 
-![Ian](https://wwejubwfy.s3.amazonaws.com/Key_Staff__Callysto_Canada_2020-02-25_08-38-01.png)
-
-----
 
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 ![Compute Canada](https://wwejubwfy.s3.amazonaws.com/Compute_Canada__Calcul_Canada_2020-02-25_08-06-56.png)
 
 ----
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 ![Cybera](https://wwejubwfy.s3.amazonaws.com/Home_page_-_Cybera_-_Albertas_not-for-profit_digital_accelerator_2020-02-25_08-08-43.png)
 
@@ -139,9 +127,10 @@ gantt
 
     section Syzygy
     23 universities, 10 research teams: 2020-02-25, 25d
+    40,000 users : 2021-08-15, 25d
     25,000 users : 2020-01-01, 25d
     16,000 users : 2019-08-22, 25d
-    8,000 users : 2017-08-24, 25d
+    8,000 users  : 2017-08-24, 25d
     Syzygy service announcement : 2017-03-15, 25d
     PIMS + Compute Canada Agreement : 2016-06-02, 25d
     Compute Canada Discussions : 2015-12-03, 2016-06-01
@@ -158,35 +147,27 @@ gantt
 ----
 
 
-### [Syzygy](https://syzygy.ca/)
-
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1nzSAGLSn8eWdfQ6K7zTw-31h82I&hl=en" width="640" height="480"></iframe>
 
+
 ----
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 ![syzygy](https://wwejubwfy.s3.amazonaws.com/Grafana_-_Syzygy_Global_2020-02-25_16-56-46.png)
 
+
 ----
 
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 ![Callysto](https://wwejubwfy.s3.amazonaws.com/Callysto_Canada__Building_tomorrows_digital_leaders.-2019-10-31-20-13-39.jpg)
 
 
-
-----
-
-### Research Teams
-
-* Curated interactive HPC
-* Perfect-barrier data integration
-* Explosively collaborative
-* Accelerate knowledge mobilization
 
 ----
 
@@ -204,49 +185,31 @@ gantt
 * [Phytoplankton Photophysiology Workshop](https://gitlab.com/tjryankeogh/phytophotoutils)
 * Many, many, many, many more examples....
 
+
 ----
-
-
 
 ### Lessons Learned
 
 * Research and education transforming
 * Demand can be met with cloud strategy
-* Scaling programs like Data 8 requires infrastructure
+* Scaling requires infrastructure
 
-::::info
-#### Sustainable business model needed ASAP.
-::::
+<br>
+<br>
+
+#### Sustainable business model?
+
 
 
 ---
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
-
 # <code>2i2c</code>
 
 
-> A corporation with a mission to support people engaged in **interactive computing**.
 
-International Interactive Computing Collaboration
+[International Interactive Computing Collaboration](https://2i2c.org/)
 
-----
 
-### <code>2i2c</code> Mission
 
-+ Interactive computing as a service for higher ed
-  + transparent pricing
-  + perfect service level agreement
-+ <code>2i2c</code> Labs
-  + Expertise, best practices, collaboration
-  + Embedded engineers for research projects
-+ Reinvest in open source communities
 
-<br> 
-
-::::success
-#### Rigorous governance with university oversight.
-::::
-
-----
 
