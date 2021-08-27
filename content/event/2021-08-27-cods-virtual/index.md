@@ -15,6 +15,7 @@ all_day: false
 event: Canadian Open Data Society Board Meeting
 event_url: https://www.opendatasociety.ca/
 publishDate: 2021-08-27T05:03:28.240Z
+slides: 2021-08-27-cods-virtual
 draft: false
 featured: false
 authors:
