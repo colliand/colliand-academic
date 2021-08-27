@@ -2,7 +2,6 @@
 tags: ["2i2c","open-data","Syzygy","Callysto"]
 categories: ["research-policy","research-tech"]
 date: "2021-08-27"
-diagram: true
 slides:
   theme: black
   transition: 'zoom'
