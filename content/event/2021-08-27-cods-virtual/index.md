@@ -1,7 +1,7 @@
 ---
-title: Open Toolchain
+title: Presentation to Canadian Open Data Society Board
 abstract: |-
-  People, with the right tools, resources, and data, can solve wicked problems and do good things by working together.
+  People, with the right data, tools and resources, can do good things by working together.
 location: virtual meeting
 date: 2021-08-27T16:00:28.186Z
 date_end: 2021-08-27T19:00:00.000Z
