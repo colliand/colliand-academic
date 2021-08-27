@@ -3,13 +3,13 @@ tags: 2i2c
 slideOptions:
   theme: black
   transition: 'fade'
-#  parallaxBackgroundImage: 'https://ten.blue/uploads/jupiter-spot.jpg'
+#  parallaxBackgroundImage: './assets/media/images/jupiter-spot.jpg'
 #  spotlight:
 ---
 
 
 
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+<!-- .slide: data-background="./assets/media/images/jupiter-spot.jpg" -->
 
 # <code>2i2c</code>
 

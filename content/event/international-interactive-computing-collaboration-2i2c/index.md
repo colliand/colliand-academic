@@ -30,4 +30,5 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+
 {{< youtube s0htaQQ2uAY >}}
