@@ -1,5 +1,5 @@
 ---
-title: International Interactive Computing Collaboration (2i2c)
+title: 2i2c 
 abstract: James Colliander (Director of the Pacific Institute for the
   Mathematical sciences) launched Canada's national JupyterHub infrastructure
   Syzygy. James presents on the future of interactive computing including how
@@ -12,7 +12,7 @@ all_day: false
 event: " UC Berkeley Cloud Computing Meetup 011"
 event_url: https://www.meetup.com/ucberkeley_cloudmeetup/events/268544709/
 publishDate: 2020-02-26T07:19:00.000Z
-slides: 2i2c-berkeley-skydeck
+slides: 2020-02-25-berkeley-skydeck
 draft: false
 featured: false
 authors:
