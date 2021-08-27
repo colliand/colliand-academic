@@ -1,5 +1,6 @@
 ---
 tags: ["2i2c","open-data","Syzygy","Callysto"]
+title: Open Toolchain
 categories: ["research-policy","research-tech"]
 date: "2021-08-27"
 slides:
@@ -9,8 +10,7 @@ slides:
 #  spotlight:
 ---
 
-
-<!-- .slide: data-background="https://ten.blue/uploads/jupiter-spot.jpg" -->
+{{< slide background-image="https://ten.blue/uploads/jupiter-spot.jpg" >}}
 
 # <code>2i2c</code>
 

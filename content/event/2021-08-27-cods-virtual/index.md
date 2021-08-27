@@ -1,13 +1,7 @@
 ---
-title: 2021-08-27-cods-virtual
+title: Open Toolchain
 abstract: |-
-  People, with the right
-  + resources
-  + data
-  + tools
-  can work together to 
-  + solve wicked problems
-  + do good things.
+  People, with the right tools, resources, and data, can solve wicked problems and do good things by working together.
 location: virtual meeting
 date: 2021-08-27T16:00:28.186Z
 date_end: 2021-08-27T19:00:00.000Z
