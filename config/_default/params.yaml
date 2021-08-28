@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: L 
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: colliand@math.ubc.ca 
+email: colliand@gmail.com
 address:
   street: 1984 Mathematics Road
   city: Vancouver
@@ -54,7 +54,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -66,12 +66,15 @@ main_menu:
 date_format: '2006-01-02'
 time_format: '3:04 PM'
 address_format: en-us
+Timezone: PDT
+Offset:	-0700 -07 -07:00 Z0700 Z07:00
 
 # Site features
 
 highlight: true
 highlight_languages:
   - r
+  - python
 math: true
 diagram: true 
 privacy_pack: false
@@ -103,10 +106,10 @@ copyright_license:
 abstract_length: 135
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
-  date_format: January 2006
+  date_format: 2006-01-11
   citation_style: apa
 projects:
   post_view: 2
@@ -136,7 +139,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapbox'
   api_key: ''
   zoom: 15
 marketing:

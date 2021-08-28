@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: colliander-macalester-today-1.jpg
+avatar_filename: colliander-macalester-today-2.jpg
 bio: ""
 interests:
   - analysis and pde
@@ -8,35 +8,34 @@ interests:
   - research policy
   - interactive computing
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:colliand@math.ubc.ca
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/colliand
-  - display:
-      header: false
-    link: http://orcid.org/0000-0002-8087-0887
-    icon_pack: ai
-    icon: orcid
   - icon: github
     icon_pack: fab
     link: https://github.com/colliand
+  - icon: orcid
+    icon_pack: ai
+    link: http://orcid.org/0000-0002-8087-0887 
   - icon: graduation-cap
     icon_pack: fas
     link: http://scholar.google.com/citations?hl=en&user=CioUdggAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/james-colliander-9bb02465
-organizations:
-  - name: UBC
-    url: https://www.ubc.ca
-  - name: Crowdmark
-    url: https://crowdmark.com
-  - name: 2i2c
-    url: https://2i2c.ca
-  - name: Callysto
-    url: https://callysto.ca
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:colliand@math.ubc.ca
+
+# organizations:
+#  - name: UBC
+#    url: https://www.ubc.ca
+#  - name: Crowdmark
+#    url: https://crowdmark.com
+#  - name: 2i2c
+#    url: https://2i2c.ca
+#  - name: Callysto
+#    url: https://callysto.ca
 education:
   courses:
     - course: PhD in Mathematics
@@ -48,7 +47,10 @@ education:
 superuser: true
 highlight_name: false
 title: James Colliander
-email: colliand@math.ubc.ca
+email: colliand@gmail.com
 ---
 
-Professor of Mathematics at the University of British Columbia.
++ Cofounder and founding CEO of [Crowdmark](https://crowdmark.com)
++ Cofounder of [Callysto](https://callysto.ca)
++ Cofounder of [2i2c](https://2i2c.org)
++ Professor of [Mathematics](https://www.math.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/)
