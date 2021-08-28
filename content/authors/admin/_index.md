@@ -5,8 +5,8 @@ bio: ""
 interests:
   - analysis and pde
   - mathematical physics
-  - research policy
   - interactive computing
+  - research policy
 social:
   - icon: twitter
     icon_pack: fab
@@ -39,10 +39,10 @@ social:
 education:
   courses:
     - course: PhD in Mathematics
-      institution: University of Illinois
+      institution: University of Illinois, Urbana, IL, USA
       year: 1997
     - course: BA in Mathematics and Physics
-      institution: Macalester College
+      institution: Macalester College, St. Paul, MN, USA
       year: 1989
 superuser: true
 highlight_name: false
@@ -50,7 +50,7 @@ title: James Colliander
 email: colliand@gmail.com
 ---
 
-+ Cofounder and founding CEO of [Crowdmark](https://crowdmark.com)
-+ Cofounder of [Callysto](https://callysto.ca)
 + Cofounder of [2i2c](https://2i2c.org)
-+ Professor of [Mathematics](https://www.math.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/)
++ Cofounder of [Callysto](https://callysto.ca)
++ Cofounder of [Crowdmark](https://crowdmark.com)
++ Professor of [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
