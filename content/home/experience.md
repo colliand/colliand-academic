@@ -59,6 +59,15 @@ experience:
     date_start: '2018-01-15'
     date_end: ''
 
+  - title: Directeur
+    company: PIMS-CNRS IRL #3069
+    company_url: 'https://www.pims.math.ca/scientific/pims-cnrs-irl'
+    company_logo:
+    location: Vancouver, BC, Canada
+    date_start: '2016-07-01'
+    date_end: ''
+    description:
+
   - title: Director
     company: Pacific Institute for the Mathematical Sciences
     company_url: 'https://pims.math.ca'

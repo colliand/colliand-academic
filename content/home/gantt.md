@@ -22,6 +22,7 @@ gantt
     Crowdmark :active, p2, 2012-03-01, 2021-12-31
     Crowdmark CEO :active, p1, 2012-03-01, 2018-11-30
     section Service 
+    PIMS-CNRS IRL 3069 Directeur :active, 2016-07-01, 2021-12-31
     PIMS Director :done, a4, 2016-07-01, 2021-06-30
     PIMS DD :done, a3, 2015-03-01, 2016-06-30
     Associate Chair :done, a2, 2010-07-01, 2013-06-30
