@@ -50,7 +50,9 @@ title: James Colliander
 email: colliand@gmail.com
 ---
 
-+ Cofounder of [2i2c](https://2i2c.org)
-+ Cofounder of [Callysto](https://callysto.ca)
-+ Cofounder of [Crowdmark](https://crowdmark.com)
-+ Professor of [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
++ Cofounder 
+    + [2i2c](https://2i2c.org)
+    + [Callysto](https://callysto.ca)
+    + [Crowdmark](https://crowdmark.com) 
++ Professor
+    + [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
