@@ -1,9 +1,9 @@
 ---
-title: 'Canadian Open Data Society Board: Open Toolchain'
+title: 'Open Toolchain'
 abstract: People, with the right data, tools and resources, can do good things by working together.
-location: virtual meeting
-date: 2021-08-27T16:00:28.186Z
-date_end: 2021-08-27T19:00:00.000Z
+location: virtual presentation
+date: 2021-08-27T10:00:00.000Z
+date_end: 2021-08-27T10:30:00.000Z
 all_day: false
 event: Canadian Open Data Society Board Meeting
 event_url: https://www.opendatasociety.ca/
