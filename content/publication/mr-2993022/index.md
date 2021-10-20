@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "A remark on normal forms and the ``upside-down'' $I$-method for periodic NLS:\
-  \ growth of higher Sobolev norms"
+title: 'A remark on normal forms and the "upside-down" $I$-method for periodic NLS: Growth of higher Sobolev norms'
 subtitle: ''
 summary: ''
 authors:

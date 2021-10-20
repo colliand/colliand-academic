@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: The energy-critical nonlinear Schrödinger equation in $Bbb R^3$
+title: 'The energy-critical nonlinear Schrödinger equation in $\Bbb{R}^3$'
 subtitle: ''
 summary: ''
 authors:
@@ -35,7 +35,7 @@ publishDate: '2021-08-22T03:08:17.628645Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Recent developments in nonlinear partial differential equations*'
+publication: 'Recent developments in nonlinear partial differential equations'
 url_pdf: https://doi-org.ezproxy.library.ubc.ca/10.1090/conm/439/08464
 doi: 10.1090/conm/439/08464
 ---

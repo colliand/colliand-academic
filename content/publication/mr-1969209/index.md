@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Sharp global well-posedness for KdV and modified KdV on $Bbb R$ and $Bbb T$
+title: Sharp global well-posedness for KdV and modified KdV on $\Bbb{R}$ and $\Bbb{T}$
 subtitle: ''
 summary: ''
 authors:

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Global existence and scattering for rough solutions to generalized nonlinear
-  Schrödinger equations on $Bbb R$
+title: 'Global existence and scattering for rough solutions to generalized nonlinear
+  Schrödinger equations on $\Bbb{R}$'
 subtitle: ''
 summary: ''
 authors:

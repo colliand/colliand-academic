@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Almost sure well-posedness of the cubic nonlinear Schrödinger equation below
-  $L^2(Bbb T)$
+  $L^2(\Bbb T)$
 subtitle: ''
 summary: ''
 authors:

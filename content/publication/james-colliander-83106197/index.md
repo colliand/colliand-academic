@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Lower bound for the rate of blow-up of singular solutions of the Zakharov system
-  in $R3̂$
+title: 'Lower bound for the rate of blow-up of singular solutions of the Zakharov system
+  in $\Bbb{R}^3$'
 subtitle: ''
 summary: ''
 authors:

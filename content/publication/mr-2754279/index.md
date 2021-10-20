@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bootstrapped Morawetz estimates and resonant decomposition for low regularity
-  global solutions of cubic NLS on $Bbb R^2$
+title: 'Bootstrapped Morawetz estimates and resonant decomposition for low regularity
+  global solutions of cubic NLS on $\Bbb{R}^2$'
 subtitle: ''
 summary: ''
 authors:

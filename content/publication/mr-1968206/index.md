@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Existence globale et diffusion pour l'équation de Schrödinger nonlinéaire répulsive
-  cubique sur $Bbb R^3$ en dessous l'espace d'énergie
+  cubique sur $\Bbb{R}^3$ en dessous l'espace d'énergie
 subtitle: ''
 summary: ''
 authors:
@@ -36,5 +36,5 @@ publishDate: '2021-08-22T03:08:24.202232Z'
 publication_types:
 - '6'
 abstract: ''
-publication: "*Journées ``Équations aux Dérivées Partielles'' (Forges-les-Eaux, 2002)*"
+publication: 'Journées "Équations aux Dérivées Partielles" (Forges-les-Eaux, 2002)'
 ---

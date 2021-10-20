@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: System And Method For Enabling Crowd-sourced Examination Marking
-subtitle: ''
-summary: ''
+subtitle: 'USA Patent: 9,805,614'
+summary: 'A computer network implemented system for enabling intelligent crowd sourced examination marking is provided. The system provides features for building and managing a crowd of markers, and a profile manager for managing profiles for each marker. The system enables authorized users to generate marking parameters associated with marking projects. A matching component for matching marking projects or marking activities to crowd markers suggests suitable crowd markers for the marking project. The system delivers applicable examination content for marking (including scoring and/or providing feedback on examination content) by selected crowd markers, or groups of crowd markers through an adaptive marking tool.'
 authors:
 - Colliander James
 tags: []

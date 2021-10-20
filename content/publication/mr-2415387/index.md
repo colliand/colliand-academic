@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Global well-posedness and scattering for the energy-critical nonlinear Schrödinger
-  equation in $Bbb R^3$
+  equation in $\Bbb{R}^3$
 subtitle: ''
 summary: ''
 authors:

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Resonant decompositions and the $I$-method for the cubic nonlinear Schrödinger
-  equation on $Bbb R^2$
+title: 'Resonant decompositions and the $I$-method for the cubic nonlinear Schrödinger
+  equation on $\Bbb{R}^2$'
 subtitle: ''
 summary: ''
 authors:

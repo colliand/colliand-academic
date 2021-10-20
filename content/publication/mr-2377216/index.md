@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Improved interaction Morawetz inequalities for the cubic nonlinear Schrödinger
-  equation on $Bbb R^2$
+title: 'Improved interaction Morawetz inequalities for the cubic nonlinear Schrödinger
+  equation on $\Bbb{R}^2$'
 subtitle: ''
 summary: ''
 authors:
@@ -35,4 +35,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Int. Math. Res. Not. IMRN*'
+doi: 10.1093/imrn/rnm090
 ---

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Global existence and scattering for rough solutions of a nonlinear Schrödinger
-  equation on $Bbb R^3$
+title: 'Global existence and scattering for rough solutions of a nonlinear Schrödinger
+  equation on $\Bbb{R}^3$'
 subtitle: ''
 summary: ''
 authors:
