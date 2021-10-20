@@ -1,5 +1,5 @@
 ---
-title: "Berkeley Skydeck talk: Syzygy, Callysto and 2i2c"
+title: "Berkeley Skydeck: Syzygy, Callysto and 2i2c"
 abstract: James Colliander (Director of the Pacific Institute for the
   Mathematical sciences) launched Canada's national JupyterHub infrastructure
   Syzygy. James presents on the future of interactive computing including how
