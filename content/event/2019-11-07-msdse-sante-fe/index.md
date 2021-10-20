@@ -21,12 +21,13 @@ abstract: Projects like Pangeo and education-driven deployments like the UC
   principles it should follow to successfully grow into an international network
   where individual nodes can fulfill national/regional missions.
 location: Sante Fe, NM
-date: 2019-11-07T22:00:27.178Z
-date_end: 2019-11-07T22:55:00.000Z
+date: 2019-11-07T14:00:27.178Z
+date_end: 2019-11-07T14:55:00.000Z
 all_day: false
 event: 2019 Moore-Sloan Data Science Environments Meeting
 event_url: https://sites.google.com/msdse.org/summit2019/home
 publishDate: 2021-10-20T04:34:27.215Z
+url_slides: https://hackmd.io/@colliand/rk_3S33tS#/
 draft: false
 featured: false
 authors:
@@ -37,7 +38,7 @@ tags:
   - syzygy
   - callysto
 categories:
-  - research-tech
+  - research-tech, edtech
 image:
   filename: featured
   focal_point: Smart

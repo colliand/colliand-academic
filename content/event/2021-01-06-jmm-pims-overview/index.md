@@ -1,5 +1,5 @@
 ---
-title: An Overview of PIMS for the Joint Mathematical Meeting
+title: PIMS Open House for the Joint Mathematical Meeting
 abstract: "The Pacific Institute for the Mathematical Sciences will host an open
   house virtual event during JMM2021. Please join us. More information is
   available here:
@@ -11,6 +11,7 @@ all_day: false
 event: 2021 Joint Mathematics Meetings
 event_url: https://jointmathematicsmeetings.org/meetings/national/jmm2021/2247_intro
 publishDate: 2020-12-02T05:52:29.583Z
+url_slides: https://hackmd.io/@colliand/HJoT_s7Cv#/
 draft: false
 featured: false
 image:
