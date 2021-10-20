@@ -11,6 +11,7 @@ all_day: true
 event: CNRS IRLs Planet A Summit
 event_url: https://lorraine.gatech.edu/hg/item/632885
 publishDate: 2021-10-20T05:26:35.829Z
+url_slides: https://hackmd.io/@colliand/BypHOTEYS#/
 draft: false
 featured: false
 authors:
