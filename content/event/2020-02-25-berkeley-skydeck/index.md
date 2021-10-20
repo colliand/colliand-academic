@@ -12,7 +12,8 @@ all_day: false
 event: "UC Berkeley Cloud Computing Meetup 011"
 event_url: https://www.meetup.com/ucberkeley_cloudmeetup/events/268544709/
 publishDate: 2020-02-26T07:19:00.000Z
-slides: 2020-02-25-berkeley-skydeck
+# slides: 2020-02-25-berkeley-skydeck
+url_slides: https://hackmd.io/@colliand/Sy9JFnMNI#/
 draft: false
 featured: false
 authors:
