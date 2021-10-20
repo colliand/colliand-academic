@@ -14,3 +14,7 @@ image:
 The BODY of the scratch space post.
 
 <iframe width="100%" height="500" src="https://hackmd.io/@colliand/Sy9JFnMNI#/" frameborder="0"></iframe>
+
+Yes!
+
+2021-10-19 20:21:20 I successfully embedded a HackMD slide deck into my wowchemy/hugo site.
