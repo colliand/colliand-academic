@@ -38,10 +38,10 @@ social:
 #    url: https://callysto.ca
 education:
   courses:
-    - course: PhD in Mathematics
+    - course: PhD, Mathematics
       institution: University of Illinois, Urbana, IL, USA
       year: 1997
-    - course: BA in Mathematics and Physics
+    - course: BA, Mathematics and Physics
       institution: Macalester College, St. Paul, MN, USA
       year: 1989
 superuser: true
@@ -50,9 +50,7 @@ title: James Colliander
 email: colliand@gmail.com
 ---
 
-+ Cofounder 
-    + [2i2c](https://2i2c.org)
-    + [Callysto](https://callysto.ca)
-    + [Crowdmark](https://crowdmark.com) 
-+ Professor
-    + [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
++ Cofounder [2i2c](https://2i2c.org)
++ Cofounder [Callysto](https://callysto.ca)
++ Cofounder [Crowdmark](https://crowdmark.com) 
++ Professor of [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
