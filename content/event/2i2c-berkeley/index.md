@@ -6,8 +6,8 @@ abstract: "I was invited to share an update on 2i2c's progress to date and to
   stakeholders. The group included the technical staff responsible for planning,
   deploying and operating tools to support the Datahub. "
 location: virtual meeting
-date: 2021-10-21T16:00:19.592Z
-date_end: 2021-10-21T16:25:00.000Z
+date: 2021-10-21T09:00:19.592Z
+date_end: 2021-10-21T09:25:00.000Z
 all_day: false
 event: Berkeley Tech Strategy Meeting
 event_url: https://docs.datahub.berkeley.edu/en/latest/index.html
