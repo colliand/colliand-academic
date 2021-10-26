@@ -12,6 +12,7 @@ all_day: false
 event: Berkeley Tech Strategy Meeting
 event_url: https://docs.datahub.berkeley.edu/en/latest/index.html
 publishDate: 2021-10-26T22:15:19.621Z
+url_slides: https://hackmd.io/@colliand/HJ_8x8Crt#/
 draft: false
 featured: false
 authors:
