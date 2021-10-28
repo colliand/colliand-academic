@@ -5,7 +5,7 @@ abstract: Directors of CNRS International Research Laboratories in North America
   discussed ways that the constellation of IRLs might work together to generate
   effective responses to the climate crisis.
 location: Atlanta, GA
-date: 2019-10-17T05:26:35.792Z
+date: 2019-10-16T05:26:35.792Z
 date_end: 2019-10-16T07:00:00.000Z
 all_day: true
 event: CNRS IRLs Planet A Summit
