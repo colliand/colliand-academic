@@ -14,7 +14,7 @@ design:
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       ''
+    title      
     section Projects
     2i2c  :active, p5, 2020-02-25,2021-12-31
     Callysto :active, p4, 2018-01-15,2021-12-31
@@ -33,7 +33,7 @@ gantt
     Sloan Fellow  :done, f3, 2003-07-01, 2005-06-30
     IAS    :done, f4, 2003-07-01, 2003-12-31 
     Toronto Asst  :done, f1, 2001-07-03, 2003-06-30
-    Morrey Postdoc at Berkeley  :done, t5, 1997-07-01, 2001-06-30
+    Morrey Prof at Berkeley  :done, t5, 1997-07-01, 2001-06-30
     NSF Postdoc   :done, t6, 1997-07-01, 2000-06-30
     section Training
     Illinois PhD  :done, t4, 1991-01-15, 1997-04-15
