@@ -1,8 +1,8 @@
 ---
 title: Why did UBC buy 3 acres in Surrey?
 date: 2021-11-03T21:22:21.253Z
-draft: true
-featured: false
+draft: false
+featured: true
 authors:
   - admin
 tags: []
