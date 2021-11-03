@@ -1,5 +1,5 @@
 ---
-title: Why did UBC buy 3 acres in Surrey?
+title: Why did UBC spend $70M for 3 acres in Surrey?
 date: 2021-11-03T21:22:21.253Z
 draft: false
 featured: true
