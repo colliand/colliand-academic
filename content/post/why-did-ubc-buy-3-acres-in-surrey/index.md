@@ -10,6 +10,7 @@ image:
   filename: shiny-new-ubc-building-in-surrey.jpg
   focal_point: Smart
   preview_only: false
+  caption: An "artistic rendering" of the future UBC site in Surrey.
 ---
 
 Of all the ways to spend $70M, [the University of British Columbia announced yesterday](https://www.ubcproperties.com/projects/king-george-boulevard-and-fraser-highway/) that it had purchased three acres of real estate in Surrey, nowhere near the Point Grey, Okanagan or Robson Square campuses. UBC did not announce a major investment in data science the way peer institutions ([UofT](https://www.utoronto.ca/news/u-t-launches-data-sciences-institute-harness-global-data-revolution), [Berkeley](https://capitalstrategies.berkeley.edu/gateway)) have done. The University did not double down on innovation with a leveraged investment into the [Digital Technology Supercluster](https://www.digitalsupercluster.ca/) which is headquartered at the Robson Square campus. No major investment toward decarbonizing the economy, additional classroom space, or a new research facility was made. Nope! UBC bought the [Grace Hanin Community Church](https://www.gracehanin.com/) property.
