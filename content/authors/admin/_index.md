@@ -6,7 +6,7 @@ interests:
   - analysis and pde
   - mathematical physics
   - interactive computing
-  - research policy
+  - research and education
 social:
   - icon: twitter
     icon_pack: fab
