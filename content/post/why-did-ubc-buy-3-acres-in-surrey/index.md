@@ -35,7 +35,7 @@ Is it reasonable to pay $70M for three acres in Surrey? How is commercial real e
 
 ### Is this linked to the Broadway Subway Project?
 
-A research-driven transformation of the BC economy was championed by former UBC president Arvind Gupta in an [address to the Vancouver Board of Trade](https://youtu.be/M7wnVHDMnrQ?t=18m12s) in 2014. [Politics intervened](https://www.straight.com/news/504556/arvind-guptas-mitacs-touch-didnt-bring-riches-ubc) for a while but the vision eventually took root when the [Broadway Subway project](https://www.broadwaysubway.ca/) was funded, albeit only to Arbutus. 
+A research-driven transformation of the BC economy was championed by former UBC president Arvind Gupta in an [address to the Vancouver Board of Trade](https://youtu.be/M7wnVHDMnrQ?t=18m12s) in 2014. [Politics intervened](https://colliand.com/post/the-lost-opportunity/) for a while but the vision eventually took root when the [Broadway Subway project](https://www.broadwaysubway.ca/) was funded, albeit only to Arbutus. 
 
 With the purchase of the Grace Hanin Community Church property, UBC has a place to develop facilities near the terminus of the Expo Line.
 
