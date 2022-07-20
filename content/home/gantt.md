@@ -16,18 +16,18 @@ gantt
     dateFormat  YYYY-MM-DD
     title      
     section Projects
-    2i2c  :active, p5, 2020-02-25,2021-12-31
-    Callysto :active, p4, 2018-01-15,2021-12-31
-    Syzygy :active, p3, 2017-03-15, 2021-12-31
-    Crowdmark :active, p2, 2012-03-01, 2021-12-31
+    2i2c  :active, p5, 2020-02-25,2022-12-31
+    Callysto :active, p4, 2018-01-15,2022-12-31
+    Syzygy :active, p3, 2017-03-15, 2022-12-31
+    Crowdmark :active, p2, 2012-03-01, 2022-12-31
     Crowdmark CEO :active, p1, 2012-03-01, 2018-11-30
     section Service 
-    PIMS-CNRS IRL 3069 Directeur :active, 2016-07-01, 2021-12-31
+    PIMS-CNRS IRL 3069 Directeur :done, 2016-07-01, 2022-06-30
     PIMS Director :done, a4, 2016-07-01, 2021-06-30
     PIMS DD :done, a3, 2015-03-01, 2016-06-30
     Associate Chair :done, a2, 2010-07-01, 2013-06-30
     section Faculty
-    UBC Prof      :active, f6, 2015-07-01, 2021-12-31
+    UBC Prof      :active, f6, 2015-07-01, 2022-12-31
     Toronto Prof  :done, f5, 2007-07-01, 2016-06-30
     Toronto Assoc :done, f2, 2003-07-01,2007-06-30
     Sloan Fellow  :done, f3, 2003-07-01, 2005-06-30
