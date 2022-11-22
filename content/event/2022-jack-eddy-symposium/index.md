@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2022 Jack Eddy Symposium"
+title: "Governing the Science Commons"
 subtitle: ""
 summary: ""
 authors: [admin]
