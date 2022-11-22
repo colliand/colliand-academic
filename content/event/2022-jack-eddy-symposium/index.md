@@ -7,8 +7,9 @@ summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2022-11-21T21:45:28-08:00
+date: 2022-06-06T21:45:28-08:00
 lastmod: 2022-11-21T21:45:28-08:00
+url_slides: https://hackmd.io/@colliand/BJ4ZgZwdq#/
 featured: false
 draft: false
 

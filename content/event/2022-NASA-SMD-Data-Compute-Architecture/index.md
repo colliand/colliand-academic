@@ -1,14 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2022 Nasa SMD Data Compute Architecture"
+title: "Building the Modern Science Stack"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: []
+tags:
+  - 2i2c
+  - NASA
 categories: []
-date: 2022-11-21T21:50:43-08:00
+date: 2022-10-20T21:50:43-08:00
 lastmod: 2022-11-21T21:50:43-08:00
+url_slides: https://hackmd.io/@colliand/By3emRCXs#/
 featured: false
 draft: false
 
@@ -27,3 +30,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{< youtube FETCc7cy8UQ >}}
