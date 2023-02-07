@@ -21,4 +21,5 @@ image:
 
 <iframe width="100%" height="500" src="https://hackmd.io/@colliand/BJ4ZgZwdq#/" frameborder="0"></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/izLAVVP6ji4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/izLAVVP6ji4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
