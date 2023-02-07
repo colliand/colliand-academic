@@ -1,29 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "2022 Nasa SMD Data Compute Architecture"
-subtitle: ""
 summary: ""
-authors: [admin]
+draft: true
+authors:
+  - admin
+lastmod: 2022-11-21T21:50:43-08:00
+title: 2022 NASA SMD Data Compute Architecture
+subtitle: Building the Modern Science Stack
+date: 2022-11-21T21:50:43-08:00
+featured: false
 tags: []
 categories: []
-date: 2022-11-21T21:50:43-08:00
-lastmod: 2022-11-21T21:50:43-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
+<iframe width="100%" height="500" src="https://hackmd.io/@colliand/By3emRCXs#/" frameborder="0"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FETCc7cy8UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
