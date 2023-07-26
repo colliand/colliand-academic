@@ -8,15 +8,12 @@ interests:
   - interactive computing
   - research and education
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/colliand
   - icon: github
     icon_pack: fab
     link: https://github.com/colliand
   - icon: orcid
     icon_pack: ai
-    link: http://orcid.org/0000-0002-8087-0887 
+    link: http://orcid.org/0000-0002-8087-0887
   - icon: graduation-cap
     icon_pack: fas
     link: http://scholar.google.com/citations?hl=en&user=CioUdggAAAAJ
@@ -25,17 +22,7 @@ social:
     link: https://linkedin.com/in/james-colliander-9bb02465
   - icon: envelope
     icon_pack: fas
-    link: mailto:colliand@math.ubc.ca
-
-# organizations:
-#  - name: UBC
-#    url: https://www.ubc.ca
-#  - name: Crowdmark
-#    url: https://crowdmark.com
-#  - name: 2i2c
-#    url: https://2i2c.ca
-#  - name: Callysto
-#    url: https://callysto.ca
+    link: mailto:colliand@2i2c.org
 education:
   courses:
     - course: PhD, Mathematics
