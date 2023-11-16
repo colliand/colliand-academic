@@ -4,11 +4,14 @@ subtitle: ""
 date: 2023-11-16T19:33:06.235Z
 draft: false
 featured: false
-authors: []
+authors:
+  - colliand
 image:
   filename: img_8376.jpeg
   focal_point: Smart
   preview_only: false
+  caption: "2023-11-15. Subcommittee on Open Science; Subgroup on Year of Open
+    Science  "
 ---
 >In my role as a [NASA TOPS](https://nasa.github.io/Transform-to-Open-Science/) Community Panelist, I participated in a meeting hosted by the Office of Science and Technology Policy (OSTP) at the [White House (EEOB)](https://www.whitehouse.gov/about-the-white-house/the-grounds/eisenhower-executive-office-building/) earlier his week. I thank [Lisa-Joy Zgorski](https://www.linkedin.com/in/lisa-joy-zgorski-721921) of the National Science Foundation (NSF) for encouraging me to write down a comment I made during our meeting. I also thank my colleagues at [2i2c](https:/:2i2c.org) and NASA TOPS. 
 
