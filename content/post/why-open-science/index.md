@@ -2,7 +2,7 @@
 title: "Why Open Science? "
 subtitle: ""
 date: 2023-11-16T19:33:06.235Z
-draft: true
+draft: false
 featured: false
 authors: []
 image:
