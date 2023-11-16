@@ -5,7 +5,7 @@ date: 2023-11-16T19:33:06.235Z
 draft: false
 featured: false
 authors:
-  - James
+  - admin
 image:
   filename: img_8376.jpeg
   focal_point: Smart
