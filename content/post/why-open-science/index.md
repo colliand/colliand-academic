@@ -1,11 +1,11 @@
 ---
-title: Democracy’s duty to open science
+title: Democracy’s Duty to Open Science
 subtitle: ""
 date: 2023-11-16T19:33:06.235Z
 draft: false
 featured: false
 authors:
-  - colliand
+  - James
 image:
   filename: img_8376.jpeg
   focal_point: Smart
