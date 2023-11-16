@@ -1,5 +1,5 @@
 ---
-title: "Why Open Science? "
+title: Democracy’s duty to open science
 subtitle: ""
 date: 2023-11-16T19:33:06.235Z
 draft: false
