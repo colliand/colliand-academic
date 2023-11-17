@@ -18,6 +18,6 @@ image:
 
 Democracies have long recognized that citizens need to be able to read and write. Literacy is a requirement for citizens to vote and participate in governance. Citizens in a democracy have a right to literacy; democratic governments have a duty to literacy. 
 
-Citizens in democracies today need more than reading and writing skills. Effective participation in the democratic process requires citizens to have skills to learn and understand themselves, society, and the universe. Citizens need access and the tools and skills need to use information. Citizens in a democracy should have a **right to participate in science** — the collective human enterprise to understand. Democratic governments have a **duty to open science**. 
+Citizens in democracies today need more than reading and writing skills. Effective participation in the democratic process requires citizens to have skills to learn and understand themselves, society, and the universe. Citizens need access and tools and skills to use information. Citizens in a democracy should have a **right to participate in science** — the collective human enterprise to understand. Democratic governments have a **duty to open science**. 
 
 
