@@ -2,7 +2,7 @@
 title: "Digital public goods for Earth system management: U.S. Greenhouse Gas
   Center launches"
 date: 2023-12-05T17:01:48.068Z
-draft: true
+draft: false
 featured: false
 tags:
   - 2i2c
