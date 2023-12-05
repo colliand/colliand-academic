@@ -24,7 +24,7 @@ It was controversial in 1827 when Joseph Fourier (the discoverer of the [law of 
 
 The science is clear. The up-to-date consensus view of the global scientific community is expressed in the [Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/) of the Intergovernmental Panel on Climate Change (IPCC): 
 
-![image-10-x33-y350.png](assets/media/image-10-x33-y350.png)
+![image-10-x33-y350.png](./assets/media/image-10-x33-y350.png)
 
 ## International Context
 
@@ -112,7 +112,7 @@ How much GHG emission is generated through oil and gas production? How much GHG 
 
 ## Openness: Amplified Knowledge Sharing
 
-The U.S. Greenhouse Gas Center builds on [EPA's leadership to openly share the data and tools for the *Inventory*](https://www.epa.gov/ghgemissions/greenhouse-gas-inventory-tools)and the [2023 Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). Instead of building a walled garden with proprietary technology from a vendor selected through RFP, the Center launched a prototype platform using curated open source tools integrated with public federal data. This **open toolchain approach** amplifies the open data efforts developed over the past two decades.
+The U.S. Greenhouse Gas Center builds on [EPA's leadership to openly share the data and tools for the *Inventory*](https://www.epa.gov/ghgemissions/greenhouse-gas-inventory-tools) and the [2023 Year of Open Science](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/). Instead of building a walled garden with proprietary technology from a vendor selected through RFP, the Center launched a prototype platform using curated open source tools integrated with public federal data. This **open toolchain approach** amplifies the open data efforts developed over the past two decades.
 
 The U.S. GHG Center's interactive computing platform is **open source science infrastructure**. The platform is: 
 
