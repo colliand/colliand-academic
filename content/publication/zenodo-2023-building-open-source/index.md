@@ -3,7 +3,7 @@
 
 title: 'Building the Open Source Science Stack'
 subtitle: ''
-summary: 'Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations.'
+summary: "Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations."
 authors:
 - James Colliander
 - Chris Holdgraf
@@ -41,7 +41,7 @@ projects: []
 publishDate: '2023-02-22T00:00:00Z'
 publication_types:
 - '4'
-abstract: 'Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations.'
+abstract: "Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations."
 publication: '*Zenodo*'
 url_pdf: https://doi.org/10.5281/zenodo.7662828
 doi: 10.5281/zenodo.7662828

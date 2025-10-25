@@ -3,7 +3,7 @@
 
 title: 'Transform to Open Science October Community Panel Summary Report'
 subtitle: ''
-summary: 'Summary report from NASA's TOPS virtual panel (October 5-6, 2022) documenting presentations given by TOPS and TOPS partners to the panelists and an overview of panelists' feedback on strengths, weaknesses, opportunities, and threats regarding open science initiatives and the OpenCore curriculum.'
+summary: "Summary report from NASA's TOPS virtual panel (October 5-6, 2022) documenting presentations given by TOPS and TOPS partners to the panelists and an overview of panelists' feedback on strengths, weaknesses, opportunities, and threats regarding open science initiatives and the OpenCore curriculum."
 authors:
 - Chelle Gentemann
 - Yvonne Ivey
@@ -47,7 +47,7 @@ projects: []
 publishDate: '2022-12-20T00:00:00Z'
 publication_types:
 - '4'
-abstract: 'Summary report from NASA's TOPS virtual panel (October 5-6, 2022) documenting presentations given by TOPS and TOPS partners to the panelists and an overview of panelists' feedback on strengths, weaknesses, opportunities, and threats regarding open science initiatives and the OpenCore curriculum.'
+abstract: "Summary report from NASA's TOPS virtual panel (October 5-6, 2022) documenting presentations given by TOPS and TOPS partners to the panelists and an overview of panelists' feedback on strengths, weaknesses, opportunities, and threats regarding open science initiatives and the OpenCore curriculum."
 publication: '*Zenodo*'
 url_pdf: https://doi.org/10.5281/ZENODO.7464444
 doi: 10.5281/ZENODO.7464444
