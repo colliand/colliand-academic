@@ -14,7 +14,7 @@ design:
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title
+    title Professional Timeline
     section Projects
     2i2c Business Dev Lead  :active, p7, 2025-01-01, 2025-12-31
     2i2c Partnerships Lead  :done, p6, 2020-03-01, 2024-12-31
