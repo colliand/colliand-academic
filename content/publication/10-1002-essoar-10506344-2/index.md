@@ -15,8 +15,8 @@ authors:
 - Richard P. Signell
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-08-21T20:08:07-07:00
+date: '2021-06-01'
+lastmod: 2025-10-24T22:00:00-07:00
 featured: false
 draft: false
 
@@ -56,7 +56,7 @@ abstract: The core tools of science (data, software, and computers) are undergoi
   we have all witnessed promising new tools which seem harmless and beneficial at
   the outset become damaging or limiting. What do we need to consider as this new
   way of doing science is evolving?
-publication: '*Earth and Space Science Open Archive*'
-url_pdf: https://doi.org/10.1002/essoar.10506344.2
-doi: 10.1002/essoar.10506344.2
+publication: '*AGU Advances*'
+url_pdf: https://doi.org/10.1029/2020AV000354
+doi: 10.1029/2020AV000354
 ---
