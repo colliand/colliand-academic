@@ -24,24 +24,6 @@ date_format: 'Jan 2, 2006'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Professor of Mathematics
-    company: UBC
-    company_url: 'https://ubc.ca'
-    company_logo:
-    location: Vancouver, BC, Canada
-    date_start: '2015-07-01'
-    date_end: '2025-06-30'
-    description: ''
-
-  - title: Cofounder
-    company: Crowdmark
-    company_url: 'https://crowdmark.com'
-    company_logo: 
-    location: Toronto, ON, Canada
-    date_start: '2012-06-29'
-    date_end: ''
-    description:
-
   - title: Business Development Lead
     company: 2i2c
     company_url: 'https://2i2c.org'
@@ -51,13 +33,13 @@ experience:
     date_end: ''
     description:
 
-  - title: Partnerships Lead
-    company: 2i2c
-    company_url: 'https://2i2c.org'
+  - title: Cofounder
+    company: Crowdmark
+    company_url: 'https://crowdmark.com'
     company_logo:
-    location: Portland, OR, USA
-    date_start: '2020-03-01'
-    date_end: '2024-12-31'
+    location: Toronto, ON, Canada
+    date_start: '2012-06-29'
+    date_end: ''
     description:
 
   - title: Cofounder
@@ -77,6 +59,24 @@ experience:
     date_start: '2018-01-15'
     date_end: ''
 
+  - title: Professor of Mathematics
+    company: UBC
+    company_url: 'https://ubc.ca'
+    company_logo:
+    location: Vancouver, BC, Canada
+    date_start: '2015-07-01'
+    date_end: '2025-06-30'
+    description: ''
+
+  - title: Partnerships Lead
+    company: 2i2c
+    company_url: 'https://2i2c.org'
+    company_logo:
+    location: Portland, OR, USA
+    date_start: '2020-03-01'
+    date_end: '2024-12-31'
+    description:
+
   - title: Directeur
     company: PIMS-CNRS IRL #3069
     company_url: 'https://www.pims.math.ca/scientific/pims-cnrs-irl'
@@ -89,7 +89,7 @@ experience:
   - title: Director
     company: Pacific Institute for the Mathematical Sciences
     company_url: 'https://pims.math.ca'
-    company_logo: 
+    company_logo:
     location: Vancouver, BC, Canada
     date_start: '2016-07-01'
     date_end: '2021-07-01'
@@ -98,16 +98,25 @@ experience:
   - title: CEO
     company: Crowdmark
     company_url: 'https://crowdmark.com'
-    company_logo: 
+    company_logo:
     location: Toronto, ON, Canada
     date_start: '2012-03-15'
     date_end: '2018-12-01'
-    description: '' 
+    description: ''
+
+  - title: Professor
+    company: Department of Mathematics, University of Toronto
+    company_url: 'https://www.math.toronto.edu/'
+    company_logo:
+    location: Toronto, ON, Canada
+    date_start: '2007-07-01'
+    date_end: '2016-06-30'
+    description: ''
 
   - title: Deputy Director
     company: Pacific Institute for the Mathematical Sciences
     company_url: 'https://pims.math.ca'
-    company_logo: 
+    company_logo:
     location: Vancouver, BC, Canada
     date_start: '2015-03-01'
     date_end: '2016-06-30'
@@ -122,16 +131,7 @@ experience:
     date_end: '2013-06-30'
     description: ''
 
-  - title: Professor 
-    company: Department of Mathematics, University of Toronto
-    company_url: 'https://www.math.toronto.edu/'
-    company_logo:
-    location: Toronto, ON, Canada
-    date_start: '2007-07-01'
-    date_end: '2016-06-30'
-    description: ''
-  
-  - title: Associate Professor 
+  - title: Associate Professor
     company: Department of Mathematics, University of Toronto
     company_url: 'https://www.math.toronto.edu/'
     company_logo:
@@ -139,8 +139,8 @@ experience:
     date_start: '2003-07-01'
     date_end: '2007-06-30'
     description: ''
-  
-  - title: Assistant Professor 
+
+  - title: Assistant Professor
     company: Department of Mathematics, University of Toronto
     company_url: 'https://www.math.toronto.edu/'
     company_logo:
@@ -149,7 +149,7 @@ experience:
     date_end: '2003-06-30'
     description: ''
 
-  - title: C. B. Morrey Assistant Professor 
+  - title: C. B. Morrey Assistant Professor
     company: Department of Mathematics, University of California, Berkeley
     company_url: 'https://math.berkeley.edu/'
     company_logo:
@@ -158,8 +158,8 @@ experience:
     date_end: '2001-07-01'
     description: ''
 
-  - title: Graduate Student 
-    company: Department of Mathematics, University of Illinois 
+  - title: Graduate Student
+    company: Department of Mathematics, University of Illinois
     company_url: 'https://math.illinois.edu/'
     company_logo:
     location: Urbana, IL, USA
@@ -168,25 +168,25 @@ experience:
     description: ''
 
 
-  - title: Research Physicist 
-    company: U.S. Naval Research Laboratory 
+  - title: Research Physicist
+    company: U.S. Naval Research Laboratory
     company_url: 'https://www.nrl.navy.mil/'
     company_logo:
     location: Washington, DC, USA
-    date_start: '1989-07-15' 
+    date_start: '1989-07-15'
     date_end: '1990-12-15'
     description: ''
 
-  - title: Research Physicist 
-    company: 3M Company 
+  - title: Research Physicist
+    company: 3M Company
     company_url: 'https://www.3m.com/'
     company_logo:
     location: St. Paul, MN, USA
     date_start: '1987-05-15'
     date_end: '1989-06-30'
     description: ''
-    
-  - title: Undergraduate Student 
+
+  - title: Undergraduate Student
     company: Macalester College
     company_url: 'https://www.macalester.edu/'
     company_logo:
