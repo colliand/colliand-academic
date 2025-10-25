@@ -33,7 +33,7 @@ tags:
 - NASA TOPS
 categories: []
 date: '2022-07-20'
-lastmod: 2025-10-24T22:00:00-07:00
+lastmod: 2024-10-24T22:00:00-07:00
 featured: false
 draft: false
 
@@ -51,7 +51,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-10-24T22:00:00Z'
+publishDate: '2022-07-20T00:00:00Z'
 publication_types:
 - '4'
 abstract: 'Summary from a virtual community panel May 17-19, 2022 where NASA's TOPS initiative presented plans and highlighted emerging trends, success stories, and lessons learned with open science experts.'
