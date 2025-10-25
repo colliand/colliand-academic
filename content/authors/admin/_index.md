@@ -3,10 +3,10 @@ role: ""
 avatar_filename: colliander-macalester-today-2.jpg
 bio: ""
 interests:
-  - analysis and pde
-  - mathematical physics
   - interactive computing
   - research and education
+  - analysis and pde
+  - mathematical physics
 social:
   - icon: github
     icon_pack: fab
@@ -39,5 +39,5 @@ email: colliand@gmail.com
 
 + Cofounder [2i2c](https://2i2c.org)
 + Cofounder [Callysto](https://callysto.ca)
-+ Cofounder [Crowdmark](https://crowdmark.com) 
-+ Professor of [Mathematics](https://www.math.ubc.ca/) at [UBC](https://www.ubc.ca/)
++ Cofounder [Crowdmark](https://crowdmark.com)
++ Mathematician
