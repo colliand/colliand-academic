@@ -24,13 +24,13 @@ date_format: 'Jan 2, 2006'
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Professor of Mathematics 
+  - title: Professor of Mathematics
     company: UBC
     company_url: 'https://ubc.ca'
-    company_logo: 
+    company_logo:
     location: Vancouver, BC, Canada
     date_start: '2015-07-01'
-    date_end: ''
+    date_end: '2025-06-30'
     description: ''
 
   - title: Cofounder
@@ -42,6 +42,24 @@ experience:
     date_end: ''
     description:
 
+  - title: Business Development Lead
+    company: 2i2c
+    company_url: 'https://2i2c.org'
+    company_logo:
+    location: Portland, OR, USA
+    date_start: '2025-01-01'
+    date_end: ''
+    description:
+
+  - title: Partnerships Lead
+    company: 2i2c
+    company_url: 'https://2i2c.org'
+    company_logo:
+    location: Portland, OR, USA
+    date_start: '2020-03-01'
+    date_end: '2024-12-31'
+    description:
+
   - title: Cofounder
     company: 2i2c
     company_url: 'https://2i2c.org'
@@ -50,7 +68,7 @@ experience:
     date_start: '2020-03-01'
     date_end: ''
     description:
- 
+
   - title: Cofounder
     company: Callysto
     company_url: 'https://callysto.ca'
@@ -65,7 +83,7 @@ experience:
     company_logo:
     location: Vancouver, BC, Canada
     date_start: '2016-07-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description:
 
   - title: Director
