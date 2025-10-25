@@ -3,7 +3,7 @@
 
 title: 'Transform to Open Science May Community Panel Summary Report'
 subtitle: ''
-summary: 'Summary from a virtual community panel May 17-19, 2022 where NASA's TOPS initiative presented plans and highlighted emerging trends, success stories, and lessons learned with open science experts.'
+summary: "Summary from a virtual community panel May 17-19, 2022 where NASA's TOPS initiative presented plans and highlighted emerging trends, success stories, and lessons learned with open science experts."
 authors:
 - Chelle Gentemann
 - Yvonne Ivey
@@ -54,7 +54,7 @@ projects: []
 publishDate: '2022-07-20T00:00:00Z'
 publication_types:
 - '4'
-abstract: 'Summary from a virtual community panel May 17-19, 2022 where NASA's TOPS initiative presented plans and highlighted emerging trends, success stories, and lessons learned with open science experts.'
+abstract: "Summary from a virtual community panel May 17-19, 2022 where NASA's TOPS initiative presented plans and highlighted emerging trends, success stories, and lessons learned with open science experts."
 publication: '*Zenodo*'
 url_pdf: https://doi.org/10.5281/ZENODO.6875091
 doi: 10.5281/ZENODO.6875091
