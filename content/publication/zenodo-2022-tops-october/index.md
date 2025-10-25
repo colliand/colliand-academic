@@ -26,7 +26,7 @@ tags:
 - NASA TOPS
 categories: []
 date: '2022-12-20'
-lastmod: 2025-10-24T22:00:00-07:00
+lastmod: 2024-10-24T22:00:00-07:00
 featured: false
 draft: false
 
@@ -44,7 +44,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-10-24T22:00:00Z'
+publishDate: '2022-12-20T00:00:00Z'
 publication_types:
 - '4'
 abstract: 'Summary report from NASA's TOPS virtual panel (October 5-6, 2022) documenting presentations given by TOPS and TOPS partners to the panelists and an overview of panelists' feedback on strengths, weaknesses, opportunities, and threats regarding open science initiatives and the OpenCore curriculum.'

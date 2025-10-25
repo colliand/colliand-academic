@@ -39,7 +39,7 @@ authors:
 tags: []
 categories: []
 date: '2022-12-01'
-lastmod: 2025-10-24T22:00:00-07:00
+lastmod: 2024-10-24T22:00:00-07:00
 featured: false
 draft: false
 
@@ -57,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-10-24T22:00:00Z'
+publishDate: '2022-12-01T00:00:00Z'
 publication_types:
 - '2'
 abstract: 'The work examines space weather phenomena and their effects on technological systems through a novel risk and resiliency framework, emphasizing that addressing complex space weather challenges requires interdisciplinary approaches, open data practices, and collaboration across scientific, industrial, and policy sectors.'

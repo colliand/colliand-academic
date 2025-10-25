@@ -6,7 +6,6 @@ subtitle: ''
 summary: 'Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations.'
 authors:
 - James Colliander
-- 2i2c Community
 - Chris Holdgraf
 - Fernando Pérez
 - Yuvi Panda
@@ -21,7 +20,7 @@ tags:
 - Pangeo
 categories: []
 date: '2023-02-22'
-lastmod: 2025-10-24T22:00:00-07:00
+lastmod: 2024-10-24T22:00:00-07:00
 featured: false
 draft: false
 
@@ -39,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2025-10-24T22:00:00Z'
+publishDate: '2023-02-22T00:00:00Z'
 publication_types:
 - '4'
 abstract: 'Response to NASA RFI NNH23ZDA005L addressing Scientific Data and Computing Architecture to Support Open Science, providing recommendations for advancing NASA's Open Source Science Initiative through technology and social innovations.'
